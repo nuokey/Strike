@@ -1,0 +1,2 @@
+weapon_ak-47 30 30 2000 0.5 bullet
+weapon_knife 100 - 100 1 bullet
